@@ -1,0 +1,70 @@
+
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>Сім чудес України</title>
+<style>
+body{
+  font-family: Arial, sans-serif;
+  margin:0;
+  background:#f4f4f4;
+}
+header{
+  background:#0057b7;
+  color:white;
+  padding:20px;
+  text-align:center;
+}
+section{
+  padding:20px;
+}
+.card{
+  background:white;
+  margin:15px 0;
+  padding:15px;
+  border-radius:10px;
+}
+.card img{
+  width:100%;
+  max-height:250px;
+  object-fit:cover;
+  border-radius:10px;
+}
+footer{
+  background:#ffd700;
+  text-align:center;
+  padding:10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Сім чудес України</h1>
+  <p>Найвизначніші пам’ятки нашої країни</p>
+</header>
+
+<section>
+
+<div class="card">
+<h2>1. Софія Київська</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Saint_Sophia_Cathedral_Kyiv.jpg">
+<p>Собор XI століття — символ Києва та духовності України.</p>
+</div>
+
+<div class="card">
+<h2>2. Кам'янець-Подільська фортеця</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Kamianets-Podilskyi_Castle.jpg">
+<p>Одна з найвідоміших фортець Східної Європи.</p>
+</div>
+
+<div class="card">
+<h2>3. Хотинська фортеця</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Khotyn_Fortress.jpg">
+<p>Потужна оборонна споруда над Дністром.</p>
+</div>
+
+<div class="card">
+<h2>4. Хортиця</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/
